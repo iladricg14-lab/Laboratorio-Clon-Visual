@@ -9,7 +9,7 @@ Qué componentes Bootstrap utilizamos:
 - Carlos: Grid system
 - Adriana: Navbar
 - Israel: Cards acción
-- Bruno: Cards [...]
+- Bruno: Cards... Maquetación de tarjetas de contenido responsivas (Cards) con animaciones interactivas de zoom y personalización de botones temáticos mediante CSS y Bootstrap.
 - Miguel: Cards comedias
 - Tonantzin: Footer
 - Rodrigo: Formularios
