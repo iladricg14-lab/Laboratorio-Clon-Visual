@@ -2,7 +2,7 @@
 
 Clon: Netflix
 Qué componentes Bootstrap utilizamos:
-- 
+- Mafer: carrusel de imágenes con autoreproducción, carousel-caption
 
 
 ● Qué parte desarrolló el participante:

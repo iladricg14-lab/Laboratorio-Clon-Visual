@@ -1,0 +1,90 @@
+/* ? Carrusel */
+#carouselExampleAutoplaying {
+  border: 2px solid #a30b0b;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(148, 4, 4, 0.5);
+}
+
+/* Cajita del texto */
+.carousel-caption {
+  position: absolute;
+  left: 50%;
+  right: auto;
+  bottom: 30px;
+  transform: translateX(-50%);
+
+  background-color: rgba(0, 0, 0, 0.65);
+  border-radius: 12px;
+  padding: 15px 25px;
+
+  text-align: center;
+  width: fit-content;
+  max-width: 70%;
+}
+
+/* Título */
+.carousel-caption h5 {
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* Descripción */
+.carousel-caption p {
+  color: white;
+  font-size: 18px;
+  margin: 5px 0 0;
+}
+
+/* Tablets */
+@media (max-width: 768px) {
+  .carousel-caption {
+    bottom: 18px;
+    padding: 10px 16px;
+    max-width: 85%;
+  }
+
+  .carousel-caption h5 {
+    font-size: 22px;
+  }
+
+  .carousel-caption p {
+    font-size: 15px;
+  }
+}
+
+/* Celulares */
+@media (max-width: 480px) {
+  .carousel-caption {
+    bottom: 10px;
+    padding: 8px 12px;
+    max-width: 90%;
+  }
+
+  .carousel-caption h5 {
+    font-size: 18px;
+  }
+
+  .carousel-caption p {
+    font-size: 13px;
+    line-height: 1.2;
+  }
+}
+
+.carousel-item img {
+  height: 420px;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .carousel-item img {
+    height: 300px;
+  }
+}
+
+@media (max-width: 480px) {
+  .carousel-item img {
+    height: 220px;
+  }
+}
