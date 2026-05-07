@@ -6,13 +6,13 @@ Qué componentes Bootstrap utilizamos:
 
 
 ● Qué parte desarrolló el participante:
-- Carlos:
-- Adriana:
-- Israel:
-- Bruno:
-- Miguel:
-- Tonantzin:
-- Rodrigo: 
-- Mafer: 
+- Carlos: Grid system
+- Adriana: Navbar
+- Israel: Cards acción
+- Bruno: Cards [...]
+- Miguel: Cards comedias
+- Tonantzin: Footer
+- Rodrigo: Formularios
+- Mafer: Sección principal
 ● Revisa el siguiente link sobre markdown :
 https://www.markdownguide.org/cheat-sheet/
