@@ -1,0 +1,17 @@
+.footer-grid{
+    display:grid;
+    place-items: center;
+    grid-template-columns: repeat(4, 3fr);
+    gap:20px;
+}
+
+.footer{
+    background-color: #141414;
+}
+
+.line{
+    background-color: #000;
+    color: aliceblue;
+    padding: 1px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
