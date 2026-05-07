@@ -2,17 +2,17 @@
 
 Clon: Netflix
 Qué componentes Bootstrap utilizamos:
-- 
+- Mafer: carrusel de imágenes con autoreproducción, carousel-caption
 
 
 ● Qué parte desarrolló el participante:
-- Carlos:
-- Adriana:
-- Israel:
-- Bruno:
-- Miguel:
-- Tonantzin:
-- Rodrigo: 
-- Mafer: 
+- Carlos: Grid system
+- Adriana: Navbar
+- Israel: Cards acción
+- Bruno: Cards... Maquetación de tarjetas de contenido responsivas (Cards) con animaciones interactivas de zoom y personalización de botones temáticos mediante CSS y Bootstrap.
+- Miguel: Cards comedias
+- Tonantzin: Footer
+- Rodrigo: Formularios
+- Mafer: Sección principal
 ● Revisa el siguiente link sobre markdown :
 https://www.markdownguide.org/cheat-sheet/
