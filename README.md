@@ -8,6 +8,8 @@ Qué componentes Bootstrap utilizamos:
 ● Qué parte desarrolló el participante:
 - Carlos: Grid system
 - Adriana: Navbar
+Para la navbar se utilizo una plantilla de bootstrap en combinacion con  otra her
+ herramiento de navegacion y pestanas 
 - Israel: Cards acción
 - Bruno: Cards... Maquetación de tarjetas de contenido responsivas (Cards) con animaciones interactivas de zoom y personalización de botones temáticos mediante CSS y Bootstrap.
 - Miguel: Cards comedias
